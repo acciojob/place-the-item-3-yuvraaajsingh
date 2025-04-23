@@ -1,2 +1,5 @@
+.holder{
+	display:flex;
+	justify-content:space-evenly;
 
-/* Your CSS Code here. */
+}
